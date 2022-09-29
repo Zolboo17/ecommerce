@@ -3,12 +3,12 @@ import React from "react";
 function About() {
   return (
     <section class="flex h-fit bg-slate-200">
-      <script src="https://cdn.tailwindcss.com"></script>
+      <script src="https://cdn.tailwindcss.com" async />
       
       <div>
         <img
           src="img\IMG_0668p.png"
-          alt="Picture of the author"
+          alt="Picture of the authorss"
           width={500}
           height={500}
         ></img>

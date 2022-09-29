@@ -12,7 +12,9 @@ module.exports = {
      
       'banner':'#3A416F',
       'white': '#ffffff',
-      'gray' : '#808080'
+      'gray' : '#808080',
+      'red' : '#FF0000'
+
     }
   },
   plugins: [],

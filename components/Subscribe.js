@@ -3,7 +3,7 @@ import React from "react";
 function Subscribe() {
   return (
     <section class="h-fit ">
-      <script src="https://cdn.tailwindcss.com"></script>
+      <script src="https://cdn.tailwindcss.com" async />
       <h1 class="flex px-8 py-10 gap-1 text-5xl text-slate-500 font-bold  w-screen justify-center">
         Subscribe
       </h1>

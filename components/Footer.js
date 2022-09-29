@@ -7,7 +7,7 @@ function Footer() {
   return (
     <>
     <div  className="bg-slate-200 flex md:flex-row flex-col justify-around items-start">
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com" async />
       <div className="bg-white h-1/2 w-3/4 flex md:flex-row flex-col justify-around items-start m-8 -ml-0 drop-shadow-xl">
         <div className="p-5 ">
           {/* <ul>
