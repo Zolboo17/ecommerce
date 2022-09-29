@@ -194,10 +194,11 @@ export default function Home() {
               </div>
               <a href="#" class="flex items-center">
                 <img
-                  src="https://flowbite.com/docs/images/logo.svg"
+                  src="img\GOBI.png"
                   class="mr-3 h-6 sm:h-9"
                   alt="GOBI logo"
                 />
+                
                 <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white"></span>
               </a>
               <div class="flex items-center md:order-4">
